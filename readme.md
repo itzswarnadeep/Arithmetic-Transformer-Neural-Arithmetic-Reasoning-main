@@ -102,4 +102,4 @@ The model predicts one output token at a time while preventing access to future 
 
 ### Clone Repository
 
-git clone https://github.com/sarvesh2005takbhate/Arithmetic-Transformer-Neural-Arithmetic-Reasoning.git
+git clone https://github.com/itzswarnadeep/Arithmetic-Transformer-Neural-Arithmetic-Reasoning-main.git
